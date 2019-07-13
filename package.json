@@ -1,5 +1,5 @@
 {
-  "name": "totype",
+  "name": "@philipp122/totype",
   "version": "1.0.0",
   "description": "A better alternative to the typeof-operator in JS. Utilizes the internal [[CLASS]] property.",
   "main": "index.js",
