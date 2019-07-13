@@ -1,0 +1,24 @@
+{
+  "name": "totype",
+  "version": "1.0.0",
+  "description": "A better alternative to the typeof-operator in JS. Utilizes the internal [[CLASS]] property.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Philipp122/toType.git"
+  },
+  "keywords": [
+    "typeof",
+    "instanceof",
+    "duck-typing"
+  ],
+  "author": "Philipp Steckenbauer <philipp@steckenbauer.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Philipp122/toType/issues"
+  },
+  "homepage": "https://github.com/Philipp122/toType#readme"
+}
