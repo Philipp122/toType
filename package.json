@@ -1,6 +1,6 @@
 {
   "name": "@philipp122/totype",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A better alternative to the typeof-operator in JS. Utilizes the internal [[CLASS]] property.",
   "main": "index.js",
   "scripts": {
